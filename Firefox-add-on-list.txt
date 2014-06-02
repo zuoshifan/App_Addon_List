@@ -1,0 +1,49 @@
+﻿Application: Firefox 29.0 (20140428194100)
+Operating System: Linux (x86-gcc3)
+
+- Adblock Plus 2.6
+	Ads were yesterday!
+- Add to Delicious 0.13.1
+	Simplest Firefox add-on for Delicious. Bookmark web pages and links easily.
+- Add to Delicious+ 1.06
+	Add to Delicious lets you quickly add links from any web page.
+- AutoProxy 0.4b2.2013051811
+	Proxy management made easy.
+- Easy Screenshot 0.3.3
+	You can capture a screenshot by selecting an area of a webpage, the whole webpage or the visible area of a webpage, and then save it as an image file. We also provide some essential edit functions.
+- Element Hiding Helper for Adblock Plus 1.3
+	Helps you create element hiding rules for Adblock Plus to fight the text ads.
+- Extension List Dumper 1.15.2
+	Dumps a list of the installed extensions.
+- Firemacs 4.4 (Disabled)
+	Emacs editing/viewing keybind
+- FlashGot 1.5.5.98
+	Enables single and massive ("all" and "selection") downloads using the most popular external download managers for Windows, Mac OS X, Linux and FreeBSD (dozens currently supported, see Extension's Home Page for details). FlashGot offers also a Build Gallery functionality which helps to synthetize full media galleries in one page from serial contents originally scattered on several pages, for easy and fast "download all".
+- Greasemonkey 1.15
+	A User Script Manager for Firefox
+- KeySnail 2.0.2
+	Bind functions to key sequences
+- MozRepl 1.1.2
+	Interactive console for Mozilla applications
+- post 2 del.icio.us 1.2.0
+	Bookmark the current page at del.icio.us
+- Print Edit 12.5
+	Print preview with integrated edit capability.
+- Print pages to PDF 0.1.9.3
+	Creates PDF from Tabs,Bookmarks, Scrapbook(Plus)
+- Session Manager 0.8.1.2
+	Saves and restores the state of all windows.
+- Text to Voice 1.10
+	http://en.wikipedia.org/wiki/Text-to-voice. TTS gives Firefox the power of speech. Select text, click the button on the bottom right of Firefox window and this add-on speaks the selected text for you. Isn't it brilliant? Audio is downloadable.
+- Ubuntu Firefox Modifications 2.7
+	Ubuntu Firefox Pack.
+- Update Scanner 3.1.13
+	Monitors webpages for updates
+- verycdfetch 0.2.1.1 (Disabled)
+	安装后，可以直接看到verycd的下载链接
+- Web Developer 1.2.5 (Disabled)
+	Adds a menu and a toolbar with various web developer tools.
+- Wiktionary and Google Translate 7.0
+	(former Google Dictionary and Google Translate) The in-line dictionary for any word you point to or double-click; and the whole page translation of any web page in any other language.
+- 新同文堂 (New Tong Wen Tang) 0.4.0.9.1
+	中文繁簡轉換 (Chinese Simplified<->Traditional switcher)
