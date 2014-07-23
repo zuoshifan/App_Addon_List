@@ -1494,13 +1494,15 @@ linux-headers-3.2.0-60				install
 linux-headers-3.2.0-60-generic-pae		install
 linux-headers-3.2.0-63				install
 linux-headers-3.2.0-63-generic-pae		install
+linux-headers-3.2.0-64				install
+linux-headers-3.2.0-64-generic-pae		install
+linux-headers-3.2.0-67				install
+linux-headers-3.2.0-67-generic-pae		install
 linux-headers-generic-pae			install
-linux-image-3.2.0-55-generic-pae		install
-linux-image-3.2.0-56-generic-pae		install
-linux-image-3.2.0-57-generic-pae		install
-linux-image-3.2.0-58-generic-pae		install
 linux-image-3.2.0-60-generic-pae		install
 linux-image-3.2.0-63-generic-pae		install
+linux-image-3.2.0-64-generic-pae		install
+linux-image-3.2.0-67-generic-pae		install
 linux-image-generic-pae				install
 linux-libc-dev					install
 linux-sound-base				install
@@ -1784,6 +1786,7 @@ python-simplejson				install
 python-sip					install
 python-sip-dev					install
 python-smbc					install
+python-socksipy					install
 python-software-properties			install
 python-speechd					install
 python-sqlite					install
@@ -1867,6 +1870,8 @@ shared-mime-info				install
 sharutils					install
 shotwell					install
 simple-scan					install
+skype						install
+skype-bin					install
 smbclient					install
 sni-qt						install
 software-center					install
@@ -1956,6 +1961,10 @@ time						install
 tipa						install
 tk						install
 tk8.5						install
+tor						install
+tor-geoipdb					install
+torchat						deinstall
+torsocks					install
 toshset						install
 totem						install
 totem-common					install
@@ -2048,6 +2057,7 @@ usbutils					install
 util-linux					install
 uuid-runtime					install
 vbetool						install
+vidalia						deinstall
 vim						install
 vim-common					install
 vim-gtk						install
