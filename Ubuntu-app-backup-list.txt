@@ -1498,11 +1498,14 @@ linux-headers-3.2.0-64				install
 linux-headers-3.2.0-64-generic-pae		install
 linux-headers-3.2.0-67				install
 linux-headers-3.2.0-67-generic-pae		install
+linux-headers-3.2.0-70				install
+linux-headers-3.2.0-70-generic-pae		install
 linux-headers-generic-pae			install
 linux-image-3.2.0-60-generic-pae		install
 linux-image-3.2.0-63-generic-pae		install
 linux-image-3.2.0-64-generic-pae		install
 linux-image-3.2.0-67-generic-pae		install
+linux-image-3.2.0-70-generic-pae		install
 linux-image-generic-pae				install
 linux-libc-dev					install
 linux-sound-base				install
