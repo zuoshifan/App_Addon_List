@@ -2,4 +2,4 @@
 sudo dpkg --get-selections > ~/Documents/App_Addon_List/Ubuntu-app-backup-list.txt
 
 恢复安装软件，采用如下命令：
-sudo dpkg --set-selections < ~/Documents/App_Addon_List/Ubuntu-app-backup-list.txt && apt-get dselect-upgrade
+sudo dpkg --set-selections < ~/Documents/App_Addon_List/Ubuntu-app-backup-list.txt && sudo apt-get dselect-upgrade
