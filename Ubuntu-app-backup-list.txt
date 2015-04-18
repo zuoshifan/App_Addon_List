@@ -1649,7 +1649,6 @@ phonon						install
 phonon-backend-gstreamer			install
 pkg-config					install
 plasma-scriptengine-javascript			install
-playonlinux					install
 plymouth					install
 plymouth-label					install
 plymouth-theme-ubuntu-logo			install
@@ -2081,12 +2080,6 @@ whiptail					install
 whois						install
 whoopsie					install
 winbind						install
-wine						install
-wine-gecko1.4					install
-wine1.4						install
-wine1.4-common					install
-wine1.4-i386					install
-winetricks					install
 wireless-regdb					install
 wireless-tools					install
 wodim						install
