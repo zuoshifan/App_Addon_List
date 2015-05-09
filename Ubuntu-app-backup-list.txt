@@ -44,6 +44,7 @@ aptdaemon-data					install
 aptitude					install
 apturl						install
 apturl-common					install
+ark						install
 aspell						install
 aspell-en					install
 asymptote					install
@@ -1571,6 +1572,9 @@ libknewstuff2-4					install
 libknewstuff3-4					install
 libknotifyconfig4				install
 libkntlm4					install
+libkonq-common					install
+libkonq5-templates				install
+libkonq5abi1					install
 libkparts4					install
 libkpathsea5					install
 libkprintutils4					install
